@@ -61,7 +61,7 @@ You can follow the steps below to run the NLP.py module:
 
 
 
-You can use the following commands to install these libraries:
+You can use the following commands to install these libraries: 
 
 !pip install biopython
 
