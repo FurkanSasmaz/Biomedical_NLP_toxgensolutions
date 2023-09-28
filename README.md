@@ -3,6 +3,7 @@ NLP-Research-Internship-Assignment-Biomedical-Text-Analysis
 
 Interpretation and usefulness
 "Cancer Drugs" was chosen as the topic for the article. The purpose of choosing this topic is to analyze how much the drug "Icotinib" was used in the articles between the years [2010/01/01 - 2017/09/27]. When I printed the first 50 sections of the abstracts (abstracts[:50]) on the console screen via PudMed, it was concluded that the drug "Icotinib" was used in only 1 article in total. While doing these, advanced NLP techniques were applied to the abstract sections obtained beforehand to avoid any errors in the results. The advanced NLP techniques applied are below;
+
 •	Tokenization
 
 •	Part-of-speech (POS) tagging
